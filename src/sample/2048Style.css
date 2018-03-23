@@ -1,0 +1,8 @@
+.root
+{
+    -fx-font-size: 30px;
+}
+.grid-pane
+{
+    -fx-grid-lines-visible: true;
+}
